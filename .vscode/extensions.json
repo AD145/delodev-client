@@ -1,0 +1,23 @@
+{
+	"recommendations": [
+		"octref.vetur",
+		"EditorConfig.EditorConfig",
+		"faisalhakim47.vue-inline-template",
+		"PKief.material-icon-theme",
+		"dbaeumer.jshint",
+		"dbaeumer.vscode-eslint",
+		"johnpapa.vscode-peacock",
+		"jasonnutter.search-node-modules",
+		"CoenraadS.bracket-pair-colorizer-2",
+		"mrmlnc.vscode-scss",
+		"msjsdiag.debugger-for-chrome",
+		"oderwat.indent-rainbow",
+		"wix.vscode-import-cost",
+		"waderyan.babelrc",
+		"edb.settings-on-fire",
+		"Gruntfuggly.todo-tree",
+		"wayou.vscode-todo-highlight",
+		"alefragnani.Bookmarks",
+		"formulahendry.auto-complete-tag"
+	]
+}

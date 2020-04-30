@@ -1,0 +1,14 @@
+{
+	"externals": [
+		{
+			"module": "vue",
+			"entry": "https://vspfx.azureedge.ent/vue-deps/vue.js",
+			"global": "Vue"
+		},
+		{
+			"module": "vuetify",
+			"entry": "https://cdn.jsdeliver.net/npm/vuetify@2.2.25/dist/vuetify.min.js",
+			"global": "Vuetify"
+		}
+	]
+}
