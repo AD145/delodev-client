@@ -5,11 +5,6 @@
 		"**/.hg": true,
 		"**/CVS": true,
 		"**/.DS_Store": true,
-		".gitignore": true,
-		".editorconfig": true,
-		"package-lock.json": true,
-		"postcss.config.js": true,
 		"**/*.scss.d.ts": false,
-		"README.md": true
 	}
 }
